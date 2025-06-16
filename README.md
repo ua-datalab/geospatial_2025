@@ -1,4 +1,4 @@
-# NextGen Geospatial: AI & Cloud Tools for Geographic Analysis 
+# Geospatial**AI** 
 
 ### Data Science Workshop Series at the University of Arizona
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/PoweredbyCyverse_LogoSquare0.png" width=67>
