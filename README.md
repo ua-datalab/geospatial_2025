@@ -7,7 +7,7 @@
 
 |    | Workshop Information       |
 |  --- | ----  |
-| Dates | Sept. 3 - October 29, 2025 |
+| Dates | Sept. 2, 9, & 16 - 2025 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Hybrid at [Weaver Science-Engineering Library](https://map.arizona.edu/54) Room 212 & Zoom |
 
@@ -40,9 +40,9 @@ We welcome students and professionals from any field of study across the univers
 
 | Date |  Topic | Description |
 | :--: | :--: | :-- |
-| 09/10/24   | [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) | Join us as we introduce Google Earth Engine, a revolutionary cloud-based platform for planetary-scale environmental data analysis. This workshop will show you how to access the platform, the basics of how to navigate the software, and tips for leveraging the massive data catalog. We will show you code examples, app examples, and point you to resources on how to learn more about the powerful tool. This is a must-know tool for geospatial data analysts!
-|  09/17/24   | [Deep Learning for Aerial Imagery: DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Image-Object-Detection-‐-Deep-Forest)  | Have you wanted to get into geospatial deep learning but aren't sure how? This session demonstrates the use of the python library DeepForest for detecting trees (or birds) in high-resolution aerial imagery. DeepForest uses the powerful deep learning framework Pytorch, but reduces the complexity for researchers more focused on forestry and ecology. Using python code in a jupyter notebook, we will demonstrate workflows to run existing tree detection models, as well as how to fine-tune a model for your area of interest. An existed account with [Cyverse](https://cyverse.org/) is necessary to follow along in the jupyter notebook.  |
-|    09/24/24 | [Deep Learning for Aerial Imagery: Detecto](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Image-Object-Detection-‐-Detecto)  | In this session we will continue with deep learning object detection and show you a python library called Detecto that can help you train a CNN model to identify any object you wish in imagery. |
+| 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth]() | Join us 
+|  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine]()  |   |
+|    09/16/2025 | [End-to-End Deep Learning Workflow for Aerial Imagery Analysis]()  | In this session we will continue with deep learning |
 
 
 
@@ -61,7 +61,8 @@ The series is expert-led by educators at the [University of Arizona Data Science
 <br/>
 <br/>
 
-<img src="/images/gillan_headshot_2023.jpg" width=300>
+<img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/gillan_headshot_2023.jpg" width=300>
+
 
 [Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 15 years of experience in geospatial science. His remote sensing expertise includes drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
 
