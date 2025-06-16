@@ -1,14 +1,13 @@
 # NextGen Geospatial: AI & Cloud Tools for Geographic Analysis 
 
 ### Data Science Workshop Series at the University of Arizona
-<img src="/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=67>
+<img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/PoweredbyCyverse_LogoSquare0.png" width=67>
 
-
-<img src="/images/geospatial_desktop_AI.png" width=700>.
+<img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/geospatial_desktop_AI.png" width=700>
 
 |    | Workshop Information       |
 |  --- | ----  |
-| Dates | Sept. 3 - October 29, 2024 |
+| Dates | Sept. 3 - October 29, 2025 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Hybrid at [Weaver Science-Engineering Library](https://map.arizona.edu/54) Room 212 & Zoom |
 
