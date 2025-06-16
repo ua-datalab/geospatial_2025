@@ -42,7 +42,7 @@ We welcome students and professionals from any field of study across the univers
 | :--: | :--: | :-- |
 | 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth]() | Join us 
 |  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine]()  |   |
-|    09/16/2025 | [End-to-End Deep Learning Workflow for Aerial Imagery Analysis]()  | In this session we will continue with deep learning |
+|    09/16/2025 | [Hands-on End-to-End Deep Learning Workflow for Aerial Imagery Analysis]()  | In this session we will continue with deep learning |
 
 
 
