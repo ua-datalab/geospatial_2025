@@ -36,9 +36,9 @@ The series is **FREE** and open to all University of Arizona personnel and is ta
 
 | Date |  Topic | Description |
 | :--: | :--: | :-- |
-| 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth]() | Join us as we explore emerging trends 
-|  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine]()  | The session will demonstrate   |
-|    09/16/2025 | [Hands-on End-to-End Deep Learning Workflow for Aerial Imagery Analysis]()  |  |
+| 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth](https://github.com/ua-datalab/geospatial_2025/wiki/Geospatial-AI-Landscape) | Join us as we explore emerging trends 
+|  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine](https://github.com/ua-datalab/geospatial_2025/wiki/Coding-Agents-with-QGIS-and-Earth-Engine)  | The session will demonstrate   |
+|    09/16/2025 | [Hands-on End-to-End Deep Learning Workflow for Aerial Imagery Analysis](https://github.com/ua-datalab/geospatial_2025/wiki/Deep-Learning-Workflow-for-Aerial-Imagery-Analysis)  |  |
 
 
 
