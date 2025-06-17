@@ -60,7 +60,7 @@ The series is expert-led by educators at the [University of Arizona Data Science
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/gillan_headshot_2023.jpg" width=300>
 
 
-[Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 17 years of experience in geospatial science. His remote sensing expertise includes drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
+[Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 17 years of experience in geospatial science. His remote sensing expertise includes drone-based photogrammetry, LiDAR, and hyperspectral image analysis. He is an advovate open science and enjoys building imagery processing pipelines. 
 
 Dr. Gillan is available for consulations and collaborations if you are looking to incorporate geospatial data science in your research or grant proposal. 
 
