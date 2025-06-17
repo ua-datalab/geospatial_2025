@@ -1,6 +1,6 @@
 # Geospatial AI
 
-###  A Limited Series on how AI is Reshaping our Interaction with Geographic Data
+###  A Limited Series on How AI is Reshaping our Interaction with Geographic Data
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/PoweredbyCyverse_LogoSquare0.png" width=67>
 
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/geospatial_desktop_AI.png" width=700>
@@ -18,15 +18,15 @@
 
 ## About the Workshop Series
 
-AI is reshaping how we interact with spatial data. AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text|vision models are making it possible to perform complex image analyis with text prompts. 
+AI is reshaping how we interact with geographic data. AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text-vision models are making it possible to perform complex image analyis with text prompts. 
 
 
-This technical session aims to give a broad overview of these developments and demystify the jargon and concepts for working geospatial professionals. We will demonstrate a handful of useful tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
+This technical series aims to give a broad overview of developments in GeoAI and demystify the jargon and concepts for researchers working with GIS/Remote Sensing tools. We will demonstrate a handful of emerging tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
 
 
-The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
+The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Basic knowledge of scripting languages (e.i., python) and some prior geospatial experience will be helpful. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
 
-We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on the topic. Basic knowledge of scripting languages (python/R) and some prior geospatial experience will be helpful. Some of the lessons will include gentle live coding, but the focus will be on the big picture of what the code is doing. Jupyter notebooks with pre-written python code will be provided for several of the lessons. 
+
 
 
 <br/>
@@ -36,9 +36,9 @@ We welcome students and professionals from any field of study across the univers
 
 | Date |  Topic | Description |
 | :--: | :--: | :-- |
-| 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth]() | Join us 
-|  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine]()  |   |
-|    09/16/2025 | [Hands-on End-to-End Deep Learning Workflow for Aerial Imagery Analysis]()  | In this session we will continue with deep learning |
+| 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth]() | Join us as we explore emerging trends 
+|  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine]()  | The session will demonstrate   |
+|    09/16/2025 | [Hands-on End-to-End Deep Learning Workflow for Aerial Imagery Analysis]()  |  |
 
 
 
@@ -60,7 +60,7 @@ The series is expert-led by educators at the [University of Arizona Data Science
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/gillan_headshot_2023.jpg" width=300>
 
 
-[Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 15 years of experience in geospatial science. His remote sensing expertise includes drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
+[Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 17 years of experience in geospatial science. His remote sensing expertise includes drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
 
 Dr. Gillan is available for consulations and collaborations if you are looking to incorporate geospatial data science in your research or grant proposal. 
 
@@ -68,15 +68,9 @@ Dr. Gillan is available for consulations and collaborations if you are looking t
 <br/>
 
 
-## Documentation
-In addition to the live workshops, all of the lesson content will be openly available in the Github repository wiki https://github.com/ua-datalab/Geospatial_Workshops/wiki
-
-<br/>
-<br/>
-
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2024.
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2025.
 
 <img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width="256">
