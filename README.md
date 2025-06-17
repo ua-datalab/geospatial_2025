@@ -1,6 +1,6 @@
 # Geospatial AI
 
-###  A 3-part Series Exploring Agentic Analysis & a Queryable Earth
+###  A 3-part Series Exploring How AI is Reshaping How We Interact with Geographic Data
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/PoweredbyCyverse_LogoSquare0.png" width=67>
 
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/geospatial_desktop_AI.png" width=700>
@@ -16,17 +16,13 @@
 <br/>
 <br/>
 
-## About the Workshop 
-Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
+## About the Workshop Series
 
-Emphasizing open science and reproducible methods, this immersive hands-on workshop series will:
+AI is reshaping how we interact with spatial data. AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text|vision models are making it possible to perform complex image analyis with text prompts. 
 
-* Show you how to harness cloud computing platforms
-* Demonstrate Deep Learning workflows for remoteley sensed imagery
-* Introduce you to cloud-native formats
-* Help you build geospatial analysis pipelines
 
-Each workshop session is designed to be a discrete lesson where students will walk away with specific knowledge on a tool and resources to explore deeper. Our goal is to demystify vocabulary and show you how to use these tools with straight forward examples. We hope to cover material that is not currently being taught in credited classes at U of A.  
+This technical session aims to give a broad overview of these developments and demystify the jargon and concepts for working geospatial professionals. We will demonstrate a handful of useful tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
+
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
 
