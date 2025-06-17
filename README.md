@@ -36,7 +36,7 @@ The series is **FREE** and open to all University of Arizona personnel and is ta
 
 | Date |  Topic | Description |
 | :--: | :--: | :-- |
-| 09/02/2025   | [The GeoAI Landscape from Agentic GIS to a Queryable Earth](https://github.com/ua-datalab/geospatial_2025/wiki/Session-1:-Geospatial-AI-Landscape) | Join us as we explore emerging trends 
+| 09/02/2025   | [The Geospatial AI Landscape](https://github.com/ua-datalab/geospatial_2025/wiki/Session-1:-Geospatial-AI-Landscape) | AI is reshaping how we interact with geographic data. AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text-vision models are making it possible to perform complex image analyis with text prompts. Join us as we explore the convergence of GIS/Remote Sensing with AI and how this lower technical barriers and be a force multiplier in geographic data analyis. 
 |  09/09/2025   | [Hands-On with Coding Agents in QGIS and Earth Engine](https://github.com/ua-datalab/geospatial_2025/wiki/Session-2:-Coding-Agents-with-QGIS-and-Earth-Engine)  | The session will demonstrate   |
 |    09/16/2025 | [Hands-on End-to-End Deep Learning Workflow for Aerial Imagery Analysis](https://github.com/ua-datalab/geospatial_2025/wiki/Session-3:-Deep-Learning-Workflow-for-Aerial-Imagery-Analysis)  |  |
 
