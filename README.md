@@ -24,7 +24,7 @@ AI is reshaping how we interact with geographic data. AI models are increasingly
 This technical series aims to give a broad overview of developments in GeoAI and demystify the jargon and concepts for researchers working with GIS/Remote Sensing tools. We will demonstrate a handful of emerging tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
 
 
-The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Basic knowledge of scripting languages (e.i., python) and some prior geospatial experience will be helpful. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
+The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Basic knowledge of scripting languages (i.e., python) and some prior geospatial experience will be helpful. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
 
 
 
