@@ -7,8 +7,8 @@
 
 |    | Workshop Information       |
 |  --- | ----  |
-| Dates | Sept. 2, 9, & 16 - 2025 |
-| When | Tuesdays 10 am Arizona Time | 
+| Dates | Sept. 4, 11, & 18 - 2025 |
+| When | Thursdays 10 am Arizona Time | 
 | Where | Hybrid at [Weaver Science-Engineering Library](https://map.arizona.edu/54) Room 212 & Zoom |
 
 [Worshop Registration]   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Feeback Form]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
