@@ -1,5 +1,4 @@
-# GeospatialAI 
-#### Special series
+# GeospatialAI #### Special series
 
 ### How AI is Reshaping our Interaction with Geographic Data
 <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/PoweredbyCyverse_LogoSquare0.png" width=67>
