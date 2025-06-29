@@ -32,15 +32,14 @@ Since the 'chatgpt moment' in late 2022, multimodal AI models have surged forwar
 
 This 3-Part series will begin with a broad overview of developments in GeoAI. It aims to be more accessible to a general audience and demystify the jargon for researchers working with GIS/Remote Sensing data. 
 
-The following two sessions will be more techincal and guide attendees through hands-on examples of GeoAI technology in practice. Together, we will 'vibe code' our way through Google Earth Engine, QGIS, and run through a ML Vision workflow using a state-of-art cloud computer Jetstream2. Following along during the technical sessions will require some pre-workshop setup.   
+The following two sessions will be more technical and guide attendees through hands-on examples of GeoAI technology in practice. Together, we will 'vibe code' our way through Google Earth Engine, QGIS, and run through a ML Vision workflow using a state-of-art cloud computer Jetstream2. Following along during the technical sessions will require some pre-workshop setup.   
 
 <br/>
 <br/>
-
-As we explore these topics together, I hope it will spark curiosity and wonder, but also appropriate caution. As our AI systems are getting more powerful and more autonomous, it's important that we integrate them into our current workflows with thought and care. 
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Basic knowledge of scripting languages (i.e., python) and some prior geospatial experience will be helpful. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
 
+As we explore these topics together, I hope it will spark curiosity and wonder, but also appropriate caution. As our AI systems are getting more powerful and more autonomous, it's important that we integrate them into our current workflows with thought and care. 
 
 
 
