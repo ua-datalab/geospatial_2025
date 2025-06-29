@@ -23,9 +23,12 @@ Since the 'chatgpt moment' in late 2022, multimodal AI models have surged forwar
 
 AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text-vision models are making it possible to perform complex image analyis with text prompts. 
 
-This technical series aims to give a broad overview of developments in GeoAI and demystify the jargon and concepts for researchers working with GIS/Remote Sensing data. As we explore these topics together, I hope it will spark curiosity and wonder, but also appropriate caution. As our AI systems are getting more powerful and more autonomous, it's important that we integrate them into our current workflows with thought and care. 
+As we explore these topics together, I hope it will spark curiosity and wonder, but also appropriate caution. As our AI systems are getting more powerful and more autonomous, it's important that we integrate them into our current workflows with thought and care. 
 
-This will be a 3-Part series. The opening session will be a broad 
+This 3-Part series will begin with a broad overview of developments in GeoAI. It aims to be more accessible to a general audience and demystify the jargon for researchers working with GIS/Remote Sensing data. 
+
+The following two sessions will be more techincal and guide attendees through hands-on examples of GeoAI technology in practice. 
+
 
 We will demonstrate a handful of emerging tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
 
