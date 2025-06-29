@@ -19,10 +19,15 @@
 
 ## About the Workshop Series
 
-AI is reshaping how we interact with geographic data. AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text-vision models are making it possible to perform complex image analyis with text prompts. 
+Since the 'chatgpt moment' in late 2022, multimodal AI models have surged forward with ever more astonishing capabilities. The impact of these AI systems in the fields of GIS, remote sensing, and spatial data analysis (collectively called Geospatial) is starting to take shape. 
 
+AI models are increasingly capable of writing custom analysis code and are morphing from a source of advice to an agent capable of executing GIS commands directly on your computer. In the domain of imagery analysis, the open ecosystem of machine learning is producing ever more capable models for a variety of tasks like object detection and image classification. Remote sensing foundation models hold the promise of accelerating ML accuracy and text-vision models are making it possible to perform complex image analyis with text prompts. 
 
-This technical series aims to give a broad overview of developments in GeoAI and demystify the jargon and concepts for researchers working with GIS/Remote Sensing data. We will demonstrate a handful of emerging tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
+This technical series aims to give a broad overview of developments in GeoAI and demystify the jargon and concepts for researchers working with GIS/Remote Sensing data. As we explore these topics together, I hope it will spark curiosity and wonder, but also appropriate caution. As our AI systems are getting more powerful and more autonomous, it's important that we integrate them into our current workflows with thought and care. 
+
+This will be a 3-Part series. The opening session will be a broad 
+
+We will demonstrate a handful of emerging tools, all free and open-source, and provide the attendees with many resources to continue their own exploration. 
 
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Basic knowledge of scripting languages (i.e., python) and some prior geospatial experience will be helpful. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
