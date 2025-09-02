@@ -96,7 +96,7 @@ Before the session begins, each attendee will need to have a recent version of Q
 
 ### Google Earth Engine
 To have a play with agentic EE, check out this demo jupyter notebook
-[![Open Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeffgillan/earthengine-community/blob/master/experimental/functionsmith/ee_companion.ipynb). 
+[![Open Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google/earthengine-community/blob/master/experimental/functionsmith/ee_companion.ipynb). 
 
 
 For the demo to work, the user needs to have **1.** an [Earth Engine Project ID](https://code.earthengine.google.com/register), and **2.** a [Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key). Both of these items are free to obtain. 
