@@ -12,7 +12,7 @@
 |  --- | ----  |
 | Dates | Sept. 4, 11, & 18 - 2025 |
 | When | Thursdays 10 am Arizona Time | 
-| Where | Hybrid at [Weaver Science-Engineering Library](https://map.arizona.edu/54) Room 212 & Zoom |
+| Where | Hybrid at [Weaver Science-Engineering Library](https://map.arizona.edu/54) Room 212 & Zoom (https://arizona.zoom.us/j/86009100882) |
 
 [Worshop Registration](https://uarizona.co1.qualtrics.com/jfe/form/SV_3eq2ax2JjH52Wiy)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Feeback Form]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
 
