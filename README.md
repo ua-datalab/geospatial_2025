@@ -106,14 +106,18 @@ These two items needs to be saved as [Colab Secrets](https://colab.sandbox.googl
 <img src="https://github.com/jeffgillan/earthengine-community/blob/master/experimental/functionsmith/colab_secrets.png" width=400>
 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2025.
-
-<img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width="256">
 
 <br/>
 <br/>
 
 ## Setup for End-to-End Deep Learning for Aerial Imagery (9/18/2025)
 
+<br/>
+<br/>
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2025.
+
+<img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width="256">
