@@ -86,6 +86,25 @@ Dr. Gillan is available for consulations and collaborations if you are looking t
 <br/>
 
 
+## Setup 
+To participate in this hands-on session, each attendee needs to have their own computer. If you are attending in-person at the UA library, please bring your laptop. You can also join us via Zoom from your home computer. Additionally, you will need to install software prior to the session and have Google Earth Engine Accounts. We will BRIEFLY go over software and account requirements at the beginning of the session, but will not dedicate significant time to it. I would like to spend the session exploring agentic data analysis and learning from each other what works, what doesn't work, and best practices for usage. 
+
+
+### QGIS & MCP
+Before the session begins, each attendee will need to have a recent version of QGIS installed on their machine. Additionally, you will need to set up the MCP server and install a QGIS plugin. Full instructions are [here](https://github.com/jjsantos01/qgis_mcp). 
+
+
+### Google Earth Engine
+To have a play with agentic EE, check out this demo jupyter notebook
+[![Open Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeffgillan/earthengine-community/blob/master/experimental/functionsmith/ee_companion.ipynb). 
+
+
+For the demo to work, the user needs to have **1.** an [Earth Engine Project ID](https://code.earthengine.google.com/register), and **2.** a [Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key). Both of these items are free to obtain. 
+
+These two items needs to be saved as [Colab Secrets](https://colab.sandbox.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Authentication.ipynb)
+
+<img src="https://github.com/jeffgillan/earthengine-community/blob/master/experimental/functionsmith/colab_secrets.png" width=400>
+
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
