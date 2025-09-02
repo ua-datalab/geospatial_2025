@@ -86,7 +86,7 @@ Dr. Gillan is available for consulations and collaborations if you are looking t
 <br/>
 
 
-## Setup 
+## Setup for Coding Agents (9/11/2025)
 To participate in this hands-on session, each attendee needs to have their own computer. If you are attending in-person at the UA library, please bring your laptop. You can also join us via Zoom from your home computer. Additionally, you will need to install software prior to the session and have Google Earth Engine Accounts. We will BRIEFLY go over software and account requirements at the beginning of the session, but will not dedicate significant time to it. I would like to spend the session exploring agentic data analysis and learning from each other what works, what doesn't work, and best practices for usage. 
 
 
@@ -111,3 +111,9 @@ These two items needs to be saved as [Colab Secrets](https://colab.sandbox.googl
 [UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2025.
 
 <img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width="256">
+
+<br/>
+<br/>
+
+## Setup for End-to-End Deep Learning for Aerial Imagery (9/18/2025)
+
