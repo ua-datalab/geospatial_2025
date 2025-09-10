@@ -106,6 +106,29 @@ These two items needs to be saved as [Colab Secrets](https://colab.sandbox.googl
 <img src="https://github.com/jeffgillan/earthengine-community/blob/master/experimental/functionsmith/colab_secrets.png" width=400>
 
 
+### Data for QGIS/Claude
+
+
+### Prompts for QGIS/Claude
+
+ping qgis
+
+Your working directory for this project is /Users/jgillan/Documents/qgis_mcp
+
+Connect to qgis and help me with some geographic analysis. As we proceed, please follow my instructions precisely and do not execute any code and analysis without my express permission. I'm going to explain the task I want completed, you will NOT launch into code execution until you have reasoned through the steps required to complete the task and summarized them for me. It's important to understand before doing and keeping me in the loop before any action. When I give you permission to proceed with the code generation and execution, you will write a summary report for me that includes the final successful code. I want to keep that code for future use. Please write out successful code to python files within the working directory.
+
+Add the file scr_25april25_dsm.tif to the map
+
+Create a hillshade layer of the dsm
+
+Make a presentation quality map (.png) that displays the DSM on top of the hillshade. Make the dsm layer have a rainbow color ramp. Also make the DSM transparent enough to be able to see the hillshade layer underneath. This map is for an important presentation in front of a bunch of cartographers. Make sure it has a good north arrow and scale bar. Please put a legend showing the elevation of the DSM. 
+
+From the working directory, add the layer scr_25april25_ortho.tif to the map. I am interested in identify green vegetation in the image. Can you do some band math to create a green leaf index that is similar to NDVI but using only the rgb bands?
+
+Create a rectangular polygon layer as a geojson. Please make about 20 x 10 meters in size and put it dead center of the map display. 
+
+Clip out the dsm layer using the new geojson polygon. 
+
 
 
 <br/>
