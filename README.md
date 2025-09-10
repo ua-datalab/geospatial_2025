@@ -91,7 +91,7 @@ To participate in this hands-on session, each attendee needs to have their own c
 
 
 ### QGIS & MCP
-Before the session begins, each attendee will need to have a recent version of QGIS installed on their machine. Additionally, you will need to set up the MCP server and install a QGIS plugin. Full instructions are [here](https://github.com/jjsantos01/qgis_mcp). 
+Before the session begins, each attendee will need to have a recent version of QGIS installed on their machine. You will need Claude desktop installed on your computer. Additionallly, you need to set up the MCP server and install a QGIS plugin. Full instructions are [here](https://github.com/jjsantos01/qgis_mcp). 
 
 
 ### Google Earth Engine
