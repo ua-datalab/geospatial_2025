@@ -105,9 +105,13 @@ These two items needs to be saved as [Colab Secrets](https://colab.sandbox.googl
 
 <img src="https://github.com/jeffgillan/earthengine-community/blob/master/experimental/functionsmith/colab_secrets.png" width=400>
 
+<br/>
+<br/>
 
 ### Data for QGIS/Claude
 
+<br/>
+<br/>
 
 ### Prompts for QGIS/Claude
 
