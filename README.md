@@ -110,6 +110,10 @@ These two items needs to be saved as [Colab Secrets](https://colab.sandbox.googl
 
 ### Data for QGIS/Claude
 
+Download the [digital surface model (426mb)](https://data.cyverse.org/dav-anon/iplant/projects/cyverse_training/datalab/nextgen_geospatial/scr_25april25_dsm.tif)
+
+Download the [orthomosaic (900mb)]()
+
 <br/>
 <br/>
 
