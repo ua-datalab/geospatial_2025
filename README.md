@@ -147,9 +147,11 @@ Run a python script that is located in my working directory.
 
 ## Setup for End-to-End Deep Learning for Aerial Imagery (9/18/2025)
 
-For this technical session, every student will get their own virtual machine on the powerful cloud computer [Jetstream2](https://jetstream-cloud.org/index.html). Together we will work through entire machine learning workflows for high-resolution airplane and drone imagery. We will step through the process of finding pretrained models on the web, applying zero-shot prediction on our dataset, labeling our training data, and fine-tuning a model to fit our specific use case. We will be working primarily in a Jupyter Lab environment and using python to instruct the computer. Knowledge of python will be helpful, but not totally necessary because all the code will be pre-written for you. 
+We will be using Google Colab as our computing environment. This is free to use but with limited computing resources. The only setup I recommend is getting a [Colab Pro account](https://colab.research.google.com/signup). This is FREE for university affiliated people and will give you access to higher RAM and better GPUs. 
 
-Setting up VMs for every student takes preparation so I need to know ahead of time who is serious about participating. **PLEASE NOTIFY ME OF YOUR INTENT TO PARTICIPATE BY THURSDAY SEPTEMBER 11, 2025. jgillan@arizona.edu**
+Together we will work through entire machine learning workflow to identify trees in a high-resolution drone orthomosaic. We will step through the process of finding pretrained models on the web, applying zero-shot prediction on our dataset, labeling our training data, and fine-tuning a model to fit our specific use case. We will be working primarily in a Jupyter Lab environment and using python to instruct the computer. Knowledge of python will be helpful, but not totally necessary because all the code will be pre-written for you. 
+
+
 
 <br/>
 <br/>
