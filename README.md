@@ -115,6 +115,8 @@ Download the [digital surface model (426mb)](https://data.cyverse.org/dav-anon/i
 Download the [orthomosaic (900mb)](https://data.cyverse.org/dav-anon/iplant/projects/cyverse_training/datalab/nextgen_geospatial/scr_25april25_ortho.tif
 )
 
+Download [polygon file](https://data.cyverse.org/dav-anon/iplant/projects/cyverse_training/datalab/nextgen_geospatial/peloncillo_west_aoi.gpkg
+)
 <br/>
 <br/>
 
@@ -138,7 +140,7 @@ Create a rectangular polygon layer as a geojson. Please make about 20 x 10 meter
 
 Clip out the dsm layer using the new geojson polygon. 
 
-
+Run a python script that is located in my working directory. 
 
 <br/>
 <br/>
