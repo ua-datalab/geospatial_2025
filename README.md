@@ -149,7 +149,7 @@ Run a python script that is located in my working directory.
 
 We will be using Google Colab as our computing environment. This is free to use but with limited computing resources. The only setup I recommend is getting a [Colab Pro account](https://colab.research.google.com/signup). This is FREE for university affiliated people and will give you access to higher RAM and better GPUs. 
 
-Together we will work through entire machine learning workflow to identify trees in a high-resolution drone orthomosaic. We will step through the process of finding pretrained models on the web, applying zero-shot prediction on our dataset, labeling our training data, and fine-tuning a model to fit our specific use case. We will be working primarily in a Jupyter Lab environment and using python to instruct the computer. Knowledge of python will be helpful, but not totally necessary because all the code will be pre-written for you. 
+Together we will work through entire machine learning workflow to identify trees in a high-resolution drone orthomosaic. We will step through the process of finding pretrained models on the web, applying zero-shot prediction on our dataset, labeling our training data, and fine-tuning a model to fit our specific use case. We will be working primarily in a Jupyter Lab environment and using python to instruct the computer. Knowledge of python will be helpful, but not totally necessary because all the code will be pre-written for you. Access the machine learning workflow here [![Open Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ua-datalab/geospatial_2025/blob/main/notebooks/deepforest_colab_final.ipynb)
 
 
 
