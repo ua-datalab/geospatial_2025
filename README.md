@@ -168,7 +168,7 @@ Together we will work through entire machine learning workflow to identify trees
 * 2 undergraduate student
 * 42 Not affiliated with UA
 
-Non-UA affiliation include: Crossbill Geospatial, Worldsphere, WSP, University of Nebraska Lincoln, University of Alaska Fairbanks, Waste Management, USDA Agriculture Research Service, Colorado University Boulder, Northern Arizona University, American Forest Management, University of Tehran, Buenos Aires University, Sistemas, Institute of Technology Hyderabad, James Cook University, Tufts University, The Nature Conservancy, GEOInovo, City of Phoenix Contractor, Namibia University of Science & Tech, Sanborn Map Company, North Carolina State University, Central Arizona Project, University of California Davis
+Non-UA affiliation include: DroneDeploy, Crossbill Geospatial, Worldsphere, WSP, University of Nebraska Lincoln, University of Alaska Fairbanks, Waste Management, USDA Agriculture Research Service, Colorado University Boulder, Northern Arizona University, American Forest Management, University of Tehran, Buenos Aires University, Sistemas, Institute of Technology Hyderabad, James Cook University, Tufts University, The Nature Conservancy, GEOInovo, City of Phoenix Contractor, Namibia University of Science & Tech, Sanborn Map Company, North Carolina State University, Central Arizona Project, University of California Davis
 
 
 
