@@ -168,7 +168,7 @@ Together we will work through entire machine learning workflow to identify trees
 90 total registrations
 * 19 UA Graduate Students (Geographic Information Systems Tech; Geography & Development; Information Science; Geosciences; Biomedical Sciences; Landscape Architecture & Planning)
 * 8 UA faculty (Geographic Information Systems Tech; Libraries, Ecology & Evolutionary Biology; Information Science; Ag & Resource Econ; Natural Resources & Environment)
-* 11 UA Staff (Academic Affairs; Natural Resources & Environment;  Cooperative Extension)
+* 11 UA Staff (UITS; Natural Resources & Environment;  Cooperative Extension)
 * 6 UA postdocs (Ag Resource Econ; Information Science; Geographic Information Systems Tech; Geography & Development)
 * 2 undergraduate student
 * 42 Not affiliated with UA
