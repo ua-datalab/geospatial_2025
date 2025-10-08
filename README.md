@@ -158,11 +158,12 @@ Together we will work through entire machine learning workflow to identify trees
 <br/>
 <br/>
 
-## Workshop Series Feedback & Registrations
+## Workshop Feedback & Registrations
 
-The GeoAI class was great!  Thank you very much for all the work you did! I have without doubt gotten something out of your classes.  I used to be more of a GIS programmer but switched to business side of programming back in 2008 when the economy tanked and I had just finished my dissertation (I needed a good paycheck).  I have had my fill of that side of programming and your classes have me really jazzed again about programming (GIS related).  I was getting close to calling it quits on ALL programming until these courses and all the great tools you have demonstrated.  - _Averill Cate UA UITS_
+"The GeoAI class was great!  Thank you very much for all the work you did! I have without doubt gotten something out of your classes.  I used to be more of a GIS programmer but switched to business side of programming back in 2008 when the economy tanked and I had just finished my dissertation (I needed a good paycheck).  I have had my fill of that side of programming and your classes have me really jazzed again about programming (GIS related).  I was getting close to calling it quits on ALL programming until these courses and all the great tools you have demonstrated".  - _Averill Cate UA UITS_
 
-
+<br/>
+<br/>
 
 90 total registrations
 * 19 UA Graduate Students (Geographic Information Systems Tech; Geography & Development; Information Science; Geosciences; Biomedical Sciences; Landscape Architecture & Planning)
